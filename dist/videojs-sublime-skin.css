@@ -156,8 +156,11 @@
   .vjs-sublime-skin .vjs-playback-rate,
   .vjs-sublime-skin .vjs-subtitles-button,
   .vjs-sublime-skin .vjs-captions-button,
-  .vjs-sublime-skin .vjs-mute-control {
+  .vjs-sublime-skin .vjs-mute-control,
+  .vjs-sublime-skin .vjs-quality-button {
     display: none; }
+
+/*# sourceMappingURL=videojs-sublime-skin.css.map */
 
 .video-js {
   background-color: black;
@@ -216,3 +219,5 @@ body.vjs-full-window {
     width: 100%; }
   .video-js.vjs-using-native-controls .vjs-poster {
     display: none; }
+
+/*# sourceMappingURL=videojs.css.map */
