@@ -19,5 +19,8 @@
   ],
   "devDependencies": {
     "bourbon": "~4.0.1"
+  },
+  "dependencies": {
+    "videojs-sublime-skin": "~1.0.1"
   }
 }
